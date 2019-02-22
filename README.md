@@ -1,6 +1,10 @@
-# NativeScript-Vue Application
+# Steps
 
-> A native application built with NativeScript-Vue
+* Create Nativescript-Vue application.
+* https://medium.com/@groksrc/how-to-set-up-nativescript-vue-js-and-firebase-465354d4296b. (Link for initializing the app and linking firebase)
+* https://github.com/EddyVerbruggen/nativescript-plugin-firebase (Repo for the nativescript-firebase plugin)
+* Create firebase project and link.
+* For push-notifications, follow the Docs on the nativescript plugin git
 
 ## Usage
 
