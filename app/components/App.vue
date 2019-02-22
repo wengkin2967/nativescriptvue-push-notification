@@ -2,7 +2,6 @@
     <Page>
         <ActionBar title="Welcome to NativeScript-Vue!"/>
         <GridLayout columns="*" rows="*">
-            <Label class="message" :text="msg" col="0" row="0"/>
         </GridLayout>
     </Page>
 </template>
@@ -11,11 +10,12 @@
   export default {
     data() {
       return {
-        msg: 'Hello World!'
+        msg: 'Hello World!',
       }
     },
     created() {
         // initializeFirebase();
+        
     },
   }
 </script>
