@@ -22,7 +22,7 @@ firebase.init({
         console.log("firebase.init done");
     },
     error => {
-        console.log('firebase.init error: ${error}');
+        console.log(`firebase.init error: ${error}`);
     }
 );
 
